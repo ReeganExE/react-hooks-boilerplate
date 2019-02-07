@@ -30,7 +30,7 @@ npm init -y
 
 ## Install dependencies
 ```sh
-npm install react@next react-dom@next react-hot-loader
+npm install react@latest react-dom@latest react-hot-loader
 ```
 
 ## Install development dependencies
@@ -142,4 +142,4 @@ module.exports = options;
 }
 ```
 
-# Enjoy Christmas 🎅🎄🔥
+# Enjoy 🎅🎄🔥
